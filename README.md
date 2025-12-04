@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Gaurav Tiwari  
+### MERN Stack Developer | B.Tech IT Student | Passionate About Building Real-World Web Applications  
 
-<!--
-**GauravTiwari187/GauravTiwari187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 I love creating full-stack applications using the MERN stack.  
+🌟 Learning advanced backend + frontend every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code  
+- **Languages:** JavaScript, C, C++, Python  
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 NutriGym – MERN Stack Fitness Management App  
+A full-stack fitness & nutrition management app with authentication, membership plans, workouts & responsive UI.  
+🔗 **Project Link:** https://github.com/GauravTiwari187/NutriGym  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced React  
+- Authentication & Security  
+- REST APIs & Backend Optimization  
+
+---
+
+## 📫 Connect with Me  
+- **Email:** gaurav2489tiwari@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/gaurav-tiwari-57736b25a  
+
+---
+
+⭐ *Thanks for visiting my profile! Have a great day!*  
