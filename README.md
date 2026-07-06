@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Skills & Technologies
-- **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS  
+- **Frontend:** React.js, HTML, CSS, JavaScript, CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Tools:** Git, GitHub, VS Code  
@@ -21,6 +21,31 @@
 A full-stack fitness & nutrition management app with authentication, membership plans, workouts & responsive UI.  
 🔗 **Project Link:** https://github.com/GauravTiwari187/NutriGym  
 
+
+---
+
+### 🍔 ZestyGo – MERN Food Delivery Application
+
+A modern Full Stack MERN Food Delivery Web Application built using React.js, Node.js, Express.js and MongoDB Atlas.
+
+#### ✨ Features
+
+- JWT Authentication
+- User Registration & Login
+- Browse Food Menu
+- Search Food Items
+- Shopping Cart
+- Stripe Payment Gateway
+- Order Management
+- Admin Dashboard
+- Add / Delete Food Items
+- Image Upload
+- MongoDB Atlas Database
+- Responsive Design
+
+🔗 Project Link:
+
+https://github.com/GauravTiwari187/Food-Delivery
 ---
 
 ## 🌱 Currently Learning  
