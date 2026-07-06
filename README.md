@@ -43,9 +43,8 @@ A modern Full Stack MERN Food Delivery Web Application built using React.js, Nod
 - MongoDB Atlas Database
 - Responsive Design
 
-🔗 Project Link:
+🔗 Project Link:https://github.com/GauravTiwari187/Food-Delivery
 
-https://github.com/GauravTiwari187/Food-Delivery
 ---
 
 ## 🌱 Currently Learning  
