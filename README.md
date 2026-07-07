@@ -17,16 +17,13 @@
 
 ## 📌 Featured Projects
 
-### 🔥 NutriGym – MERN Stack Fitness Management App  
-A full-stack fitness & nutrition management app with authentication, membership plans, workouts & responsive UI.  
-🔗 **Project Link:** https://github.com/GauravTiwari187/NutriGym  
-
-
----
-
 ### 🍔 ZestyGo – MERN Food Delivery Application
 
 A modern Full Stack MERN Food Delivery Web Application built using React.js, Node.js, Express.js and MongoDB Atlas.
+
+🌐 **Live Demo:** https://food-delivery-two-black.vercel.app
+
+🔗 **Project Link:** https://github.com/GauravTiwari187/Food-Delivery
 
 #### ✨ Features
 
@@ -37,13 +34,20 @@ A modern Full Stack MERN Food Delivery Web Application built using React.js, Nod
 - Shopping Cart
 - Stripe Payment Gateway
 - Order Management
+- My Orders
 - Admin Dashboard
 - Add / Delete Food Items
 - Image Upload
 - MongoDB Atlas Database
 - Responsive Design
 
-🔗 Project Link:https://github.com/GauravTiwari187/Food-Delivery
+---
+
+### 🔥 NutriGym – MERN Stack Fitness Management App
+
+A full-stack fitness & nutrition management app with authentication, membership plans, workouts & responsive UI.
+
+🔗 **Project Link:** https://github.com/GauravTiwari187/NutriGym
 
 ---
 
@@ -60,4 +64,4 @@ A modern Full Stack MERN Food Delivery Web Application built using React.js, Nod
 
 ---
 
-⭐ *Thanks for visiting my profile! Have a great day!*  
+⭐ *Thanks for visiting my profile! Have a great day!*
