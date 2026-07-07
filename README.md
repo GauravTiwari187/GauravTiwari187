@@ -45,9 +45,22 @@ A modern Full Stack MERN Food Delivery Web Application built using React.js, Nod
 
 ### 🔥 NutriGym – MERN Stack Fitness Management App
 
-A full-stack fitness & nutrition management app with authentication, membership plans, workouts & responsive UI.
+A modern Full Stack MERN Fitness Management Web Application built using React.js, Node.js, Express.js and MongoDB.
 
 🔗 **Project Link:** https://github.com/GauravTiwari187/NutriGym
+
+#### ✨ Features
+
+- User Registration & Login
+- JWT Authentication
+- Workout Plans
+- Nutrition & Diet Plans
+- Membership Management
+- Exercise Recommendations
+- Responsive User Interface
+- Secure Authentication
+- MongoDB Database
+- Full Stack MERN Architecture
 
 ---
 
