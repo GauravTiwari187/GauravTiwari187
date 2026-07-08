@@ -23,6 +23,8 @@ A modern Full Stack MERN Food Delivery Web Application built using React.js, Nod
 
 🌐 **Live Demo:** https://food-delivery-two-black.vercel.app
 
+🌐 **Admin Panel:** https://food-delivery-7poa.vercel.app
+
 🔗 **Project Link:** https://github.com/GauravTiwari187/Food-Delivery
 
 #### ✨ Features
@@ -48,6 +50,8 @@ A modern Full Stack MERN Food Delivery Web Application built using React.js, Nod
 A modern Full Stack MERN Fitness Management Web Application built using React.js, Node.js, Express.js and MongoDB.
 
 🔗 **Project Link:** https://github.com/GauravTiwari187/NutriGym
+
+🌐 **Live Demo:** https://nutri-gym-alpha.vercel.app/
 
 #### ✨ Features
 
